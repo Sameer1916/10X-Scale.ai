@@ -1,8 +1,0 @@
-*.class
-*.log
-*.jar
-*.war
-*.iml
-*.idea/
-*.vscode/
-out/
